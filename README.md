@@ -69,6 +69,11 @@ pip install tensorflow keras numpy matplotlib simpleitk opencv-python pydicom sc
 ```bash
 python lung-segmentation.ipynb
 ```
+## Pretrained Model
+The best-performing model from training has been saved as best_model.keras. You can directly load this model for segmentation without retraining.
+
+## Report
+A detailed project report is available in Deep-Learning Based 3D Lung Segmentation.pdf, which includes methodology, experimental setup, results, and discussions.
 
 ## Future Work
 
