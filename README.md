@@ -1,5 +1,7 @@
 # Deep-Learning Based 3D Lung Segmentation
 
+https://ieeexplore.ieee.org/document/11011979
+
 ## Project Overview  
 This project presents a **deep-learning-based 3D lung segmentation model** designed to segment lung regions in **Computed Tomography (CT) scans**. The model is built using a **U-Net architecture** and trained on a dataset derived from the **AAPM Thoracic Auto-Segmentation Challenge**. It incorporates **preprocessing techniques, advanced data augmentation, and optimized hyperparameters** to enhance segmentation accuracy while mitigating overfitting.  
 
